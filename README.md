@@ -14,5 +14,5 @@ Build a movie recommender.
 * Dato GraphLab
 
 **Quick Evaluation**:
-* Predict rating for each user-movie combination →　take top 5% of movies for each user → average the actual ratings for those movies
-    * not testing against anything
+* Predict rating for each user-movie combination &rarr; take top 5% of movies for each user &rarr; average the actual ratings for those movies
+    * try to maximise average rating; not testing against anything
